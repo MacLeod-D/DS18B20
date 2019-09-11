@@ -68,3 +68,8 @@ Part3 is called every ms with sufficient precision to simulate an RTOS task.
  4. 
 
     Enjoy it.
+    
+    
+    
+    
+    ![Heating a room with 1000W electric heater with bimetal temperature switch](Temp7.jpg)
