@@ -24,10 +24,12 @@ DEBUG enabled in Config.h: (Serial Monitor)
 
 ---------------
 
-Even the CRC-calculation is done without library.
-Multitasking: DoJob2() is called about 10.000 times per 0.6 seconds.
-DoJob2() is a simple state machine to demonstrate (cooperative) multitasking without any OS.
-Part3 is called every ms with sufficient precision to simulate an RTOS task.
+Even the CRC-calculation is done without library.<br>
+Multitasking: DoJob2() is called about 10.000 times per 0.6 seconds.<br>
+DoJob2() is a simple state machine to demonstrate (cooperative) multitasking without any OS.<br>
+Part3 is called every ms with sufficient precision to simulate an RTOS task.<br>
+
+Advantage: Taskswitches are done at defined points - YOU decide where taskswitches are possible, not a timer.<br>
 
 
 ![Test Image 1](Temp6.jpg)
