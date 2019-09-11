@@ -35,6 +35,7 @@ Part3 is called every ms with sufficient precision to simulate an RTOS task.<br>
 
 Advantage: Taskswitches are done at defined points - YOU decide where taskswitches are possible, not a timer.<br>
 
+Example:
 
 ![Test Image 1](Temp6.jpg)
 
@@ -76,6 +77,6 @@ Advantage: Taskswitches are done at defined points - YOU decide where taskswitch
     Enjoy it.
     
     
-    
+ Heating a room with 1000W electric heater with bimetal temperature switch
     
  ![Heating a room with 1000W electric heater with bimetal temperature switch](Temp7.jpg)
