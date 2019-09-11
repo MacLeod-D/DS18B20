@@ -5,22 +5,22 @@ DEBUG enabled in Config.h: (Serial Monitor)
 
 ---------------
 
-Search devices ...
-  FOUND: ROM = 10 94 91 2D 3 8 0 93   Chip = DS18S20  or older DS1820
-  FOUND: ROM = 28 B5 45 E1 4 0 0 91   Chip = DS18B20
-2 devices found
+    Search devices ...
+      FOUND: ROM = 10 94 91 2D 3 8 0 93   Chip = DS18S20  or older DS1820
+      FOUND: ROM = 28 B5 45 E1 4 0 0 91   Chip = DS18B20
+    2 devices found
 
-Dev:0  Conversion time(ms): 604  Job2-Count: 9816  Part0: 2455  Part1: 2455  Part2: 2455  Part3: 620  MaxWait: 252
-  Data = 30 0 4B 46 FF FF B 10 83 
-CRC 83
-0  Temperature = 21.6125 21.6125 Celsius 
-Dev:1  Conversion time(ms): 600  Job2-Count: 19460  Part0: 4866  Part1: 4866  Part2: 4866  Part3: 597  MaxWait: 360
-  Data = 81 1 4B 46 7F FF F 10 71 
-CRC 71
-1  Temperature = 21.6125 21.6125 Celsius 
-Dev:0  Conversion time(ms): 604  Job2-Count: 29170  Part0: 7293  Part1: 7293  Part2: 7293  Part3: 601  MaxWait: 360
-  Data = 30 0 4B 46 FF FF B 10 83 
-CRC 83
+    Dev:0  Conversion time(ms): 604  Job2-Count: 9816  Part0: 2455  Part1: 2455  Part2: 2455  Part3: 620  MaxWait: 252
+      Data = 30 0 4B 46 FF FF B 10 83 
+    CRC 83
+    0  Temperature = 21.6125 21.6125 Celsius 
+    Dev:1  Conversion time(ms): 600  Job2-Count: 19460  Part0: 4866  Part1: 4866  Part2: 4866  Part3: 597  MaxWait: 360
+      Data = 81 1 4B 46 7F FF F 10 71 
+    CRC 71
+    1  Temperature = 21.6125 21.6125 Celsius 
+    Dev:0  Conversion time(ms): 604  Job2-Count: 29170  Part0: 7293  Part1: 7293  Part2: 7293  Part3: 601  MaxWait: 360
+      Data = 30 0 4B 46 FF FF B 10 83 
+    CRC 83
 
 ---------------
 
