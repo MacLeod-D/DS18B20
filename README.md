@@ -28,11 +28,11 @@ Even the CRC-calculation is done without library.
 
 ![Test Image 1](Temp6.jpg)
 
-Blue    1. Device raw
-RED     1. Device filtered
-Orange  2. Device raw
-Magenta 2. Device filtered
-Green   Average of 1. and 2. Device
+        Blue    1. Device raw
+        RED     1. Device filtered
+        Orange  2. Device raw
+        Magenta 2. Device filtered
+        Green   Average of 1. and 2. Device
 
 
  There are a lot of programs around to read temperatures from 1 wire DS1820, DS18B20, DS18S20 devices
