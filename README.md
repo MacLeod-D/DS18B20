@@ -12,6 +12,10 @@
 
     Dev:0  Conversion time(ms): 604  Job2-Count: 9816  Part0: 2455  Part1: 2455  Part2: 2455  Part3: 620  MaxWait: 252
       Data = 30 0 4B 46 FF FF B 10 83 
+                                   v<br>
+          ..........................<br>
+          .<br>      
+          v<br>
     CRC 83
     0  Temperature = 21.6125 21.6125 Celsius 
     Dev:1  Conversion time(ms): 600  Job2-Count: 19460  Part0: 4866  Part1: 4866  Part2: 4866  Part3: 597  MaxWait: 360
