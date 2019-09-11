@@ -1,5 +1,5 @@
 # DS18B20
-High resolution temperature measurement
+High resolution temperature measurement without any library !
 
 DEBUG enabled in Config.h: (Serial Monitor)
 
