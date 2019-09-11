@@ -1,7 +1,7 @@
 # DS18B20
 High resolution temperature measurement
 
-![Test Image 1](3DTest.png)
+![Test Image 1](Temp6.jpg)
 
  There are a lot of programs around to read temperatures from 1 wire DS1820, DS18B20, DS18S20 devices
 
