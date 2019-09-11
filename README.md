@@ -74,4 +74,4 @@ Advantage: Taskswitches are done at defined points - YOU decide where taskswitch
     
     
     
-    ![Heating a room with 1000W electric heater with bimetal temperature switch](Temp7.jpg)
+ ![Heating a room with 1000W electric heater with bimetal temperature switch](Temp7.jpg)
