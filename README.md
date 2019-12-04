@@ -1,5 +1,5 @@
 # DS18B20
-<b>High resolution temperature measurement <I>without any library</I> and doing high speed multitasking in the background !</b>
+<b>High resolution temperature measurement <I>without any library</I> and doing high speed multitasking in the background!</b>
 
 #DEBUG enabled in Config.h: (Serial Monitor)
 
